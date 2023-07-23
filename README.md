@@ -1,63 +1,9 @@
-# Nuxt 3 Minimal Starter
+# I made a timer app 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Deployed at [easy-timer.vercel.app](easy-timer.vercel.app)
 
-## Setup
+You can use an optional parameter called t in the url to set the timer directly from the URL
 
-Make sure to install the dependencies:
+Quick Pomodoro Timer: 
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+[https://easy-timer.vercel.app?t=25m](https://easy-timer.vercel.app?t=25m)

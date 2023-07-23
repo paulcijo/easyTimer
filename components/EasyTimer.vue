@@ -77,7 +77,6 @@ export default {
                 }, 1000);
             } else {
                 this.playAlertSound();
-                alert("Timer Completed");
                 this.isRunning = false;
             }
         },
